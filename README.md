@@ -1,6 +1,6 @@
-# ExamEval
+# ExamEvolution
 
-ExamEval is an **AI-powered exam evaluation system** that automates subjective answer evaluation, provides detailed feedback, and generates analytics for educators.
+ExamEvolution is an **AI-powered exam evaluation system** that automates subjective answer evaluation, provides detailed feedback, and generates analytics for educators.
 
 This **frontend** is built using **React, React Router, Tailwind CSS, and Heroicons**, ensuring a modern, clean, and responsive user interface.
 
